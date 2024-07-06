@@ -20,7 +20,7 @@ Vs Build Tools or Visual Studio (Desktop C/C++)-> https://visualstudio.microsoft
 # Linux Libs
 Requires gcc/g++ or clang/clang++ => @To use Vim/Neovim
 
-Ubunto  
+Ubuntu
 sudo apt install libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev libxcursor-dev libxinerama-dev  
   
 Fedora  
@@ -45,6 +45,6 @@ Bug: when using visual studio code, sometimes a file is generated in the root fo
 Raylib Site-> https://www.raylib.com/  
 Raylib GitHub-> https://github.com/raysan5/raylib  
 Raylib Extra-> https://github.com/raylib-extras/game-premake  
-Gabriel's Template for CPP and C -> https://github.com/gabriel-oprogramador/Raylib-Template
+Gabriel's Template for CPP -> https://github.com/gabriel-oprogramador/Raylib-Template
 
 # raylib-template-vscode
