@@ -22,12 +22,6 @@ Requires gcc/g++ or clang/clang++ => @To use Vim/Neovim
 
 Ubuntu
 sudo apt install libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev libxcursor-dev libxinerama-dev  
-  
-Fedora  
-sudo dnf install alsa-lib-devel mesa-libGL-devel libX11-devel libXrandr-devel libXi-devel libXcursor-devel libXinerama-devel libatomic  
-  
-Arch Linux  
-sudo pacman -S alsa-lib mesa libx11 libxrandr libxi libxcursor libxinerama  
 
 # Macros
 DEBUG_MODE   = In Debug mode  
@@ -46,5 +40,3 @@ Raylib Site-> https://www.raylib.com/
 Raylib GitHub-> https://github.com/raysan5/raylib  
 Raylib Extra-> https://github.com/raylib-extras/game-premake  
 Gabriel's Template for CPP -> https://github.com/gabriel-oprogramador/Raylib-Template
-
-# raylib-template-vscode
